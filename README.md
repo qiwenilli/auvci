@@ -14,4 +14,4 @@ auvci是一个集成了git仓库的工作流平台，核心功能是工作流，
     - 自动创建分支，编译自动打tag，为了更好的同一个任务编译时解决代码依赖版本问题
     - 可支持在线查看文件变化，代码修改变化
 
-![示例图](./demo1.jpg)
+![示例图](https://github.com/qiwenilli/auvci/blob/main/demo.jpg)
